@@ -1,4 +1,4 @@
-<img width="50" height="600" alt="image" src="https://github.com/user-attachments/assets/3e17d205-0030-460a-a91c-6410d6568bd4 "/> <h1>Clone do Instagram<h1/>
+<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/3e17d205-0030-460a-a91c-6410d6568bd4 "/> <h1>Clone do Instagram<h1/>
 
 <h2>Este projeto é uma réplica da interface do Instagram, desenvolvida para praticar HTML, CSS e JavaScript.</h2>
 <br>
