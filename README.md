@@ -1,24 +1,56 @@
-<img width="40" height="50" alt="image" src="https://github.com/user-attachments/assets/3e17d205-0030-460a-a91c-6410d6568bd4 "/> <h1>Clone do Instagram<h1/>
+<h1>📸 Clone do Instagram</h1>
 
-<h2>Este projeto é uma réplica da interface do Instagram, desenvolvida para praticar HTML, CSS e JavaScript.</h2>
+<h2>Este projeto é uma réplica da interface do Instagram, desenvolvida com o objetivo de praticar HTML, CSS e JavaScript.
+
+A aplicação recria elementos visuais da plataforma original, focando em responsividade, estruturação de layout e estilização moderna.</h2>
+
 <br>
-<h2>🚀 Funcionalidades:</h2>
-<h2>- Tela inicial semelhante ao Instagram
-<br>
-- Área de login estilizada
-<br>
-- Ícones e design inspirados na versão oficial </h2>
-<br>
-<h2>🚀 Tecnologias utilizadas:<h2/>
-- <a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
+
+<h1>🚀 Funcionalidades</h1>
+
+<h2>- 📱 Tela inicial inspirada no Instagram
   <br>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+- 🔐 Área de login estilizada
   <br>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+- 🎨 Interface semelhante à versão oficial
+  <br>
+- 🖼️ Ícones e elementos visuais personalizados
+  <br>
+- 📐 Layout responsivo</h2>
+
 <br>
-<H2>Imagem do Projeto:</H2>
+
+<h1>🚀 Tecnologias utilizadas</h1>
+
+<h2>- HTML5
+  <br>
+- CSS3
+  <br>
+- JavaScript</h2>
+
+<br>
+
+<h1>🧠 Aprendizados</h1>
+
+<h2>Neste projeto pratiquei:
+  <br>
+  <br>
+- Estruturação de layouts com HTML
+  <br>
+- Estilização avançada com CSS
+  <br>
+- Responsividade
+  <br>
+- Organização de interface
+  <br>
+- Manipulação do DOM
+  <br>
+- Criação de páginas inspiradas em aplicações reais
+
+<br>
+
+
+<h1>📸 Imagem do Projeto:</h1>
 <img src= "https://github.com/msm1996/Instagram/blob/main/Captura%20de%20tela%202025-08-28%20232432.png?raw=true" />
-
-<a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
 
 
